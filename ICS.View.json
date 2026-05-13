@@ -23,5 +23,6 @@
     "style-event-status-confirmed": true,
     "style-event-status-tentative": true,
     "tab": "week",
+    "show_organizers": true,
     "title": "SAI-Room-BaseCamp"
 }
