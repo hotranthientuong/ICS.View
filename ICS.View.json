@@ -1,28 +1,21 @@
 {
-    "controls": [
-        "next",
-        "previous",
-        "today",
-        "date",
-        "menu"
-    ],
-    "css": ".dhx_cal_navline, .dhx_scale_bar, .dhx_cal_container, .dhx_cal_header, .dhx_cal_scale_placeholder, .dhx_scale_holder, .dhx_scale_hour {background-color: #ffffff;}.dhx_scale_holder_now, .dhx_now .dhx_month_head, .dhx_now .dhx_month_body { background-color: #ffffff;}",
-    "ending_hour": "21",
-    "event_url_geo": "",
-    "event_url_location": "",
-    "hour_format": "%G:%i",
-    "loader": "",
-    "menu_shows_calendar_names": false,
-    "menu_shows_description": false,
-    "show_attendees": true,
-    "show_organizers": true,
-    "skin": "terrace",
-    "start_of_week": "work",
-    "starting_hour": "7",
-    "style-event-status-cancelled": true,
-    "style-event-status-confirmed": true,
-    "style-event-status-tentative": true,
-    "tab": "week",
-    "show_organizers": true,
-    "title": "SAI-Room-BaseCamp"
+  "controls": [
+    "next",
+    "previous",
+    "today",
+    "date",
+    "menu"
+  ],
+  "css": ".dhx_scale_holder_now, .dhx_now .dhx_month_head, .dhx_now .dhx_month_body { background-color: #f3f7de;}",
+  "ending_hour": "22",
+  "hour_format": "%g:%i %A",
+  "menu_shows_calendar_names": false,
+  "menu_shows_description": false,
+  "show_organizers": true,
+  "skin": "terrace",
+  "start_of_week": "work",
+  "starting_hour": "7",
+  "style-event-status-cancelled": true,
+  "tab": "week",
+  "title": "SAI-Room-BaseCamp"
 }
